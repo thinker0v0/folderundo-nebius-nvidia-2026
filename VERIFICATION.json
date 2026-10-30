@@ -1,0 +1,33 @@
+{
+  "schema": "folderundo-public-reference-verification/v1",
+  "utc": "2026-10-30T14:57:39.153548+00:00",
+  "source_zip_sha256": "0920314559e590ceb1ab47f885ff7935690609314b86ee7a95f19b453e1d03f7",
+  "scope": "Actual local no-provider reference workers and supported browser actions; no current NVIDIA journey or original recovery rerun",
+  "normal": {
+    "run_id": "5bf062e7-ceb9-443d-aadc-668e04a17d04",
+    "original_files_preserved": 4,
+    "original_paths_restored": 4,
+    "file_count": 4,
+    "exact_bytes_and_identity_metadata": true,
+    "export_sha256": "a92f8026cdaaf8edf03c45856082ce8d4e66b2b42492885f50a4747dc3201a4f",
+    "export_domain_verified": true
+  },
+  "conflict": {
+    "run_id": "50909b65-ca64-4539-adac-64fff5b75506",
+    "original_files_preserved": 4,
+    "original_paths_restored": 3,
+    "file_count": 5,
+    "complete_restoration": false,
+    "export_sha256": "3a588085b446fc71ea1383022eb1441ca253240319e0d118a6d07e2c65cd52cb",
+    "export_domain_verified": true
+  },
+  "browser_worker_jobs_succeeded": 15,
+  "separate_first_validation_worker_jobs_succeeded": 13,
+  "public_fixture_files_verified": 40,
+  "first_controller_failure": "Transient SQLite WAL disappeared during storage enumeration; validation independently completed in 2.61 seconds. Failure retained.",
+  "source_changed": false,
+  "provider_calls": 0,
+  "original_recovery_acceptance": false,
+  "browser_console_error": "favicon.ico 404 only",
+  "whole_product_acceptance": false
+}

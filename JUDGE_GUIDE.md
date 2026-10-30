@@ -61,4 +61,4 @@ The preserved successful NVIDIA video is a **historical 26.8-second workflow**, 
 
 These instructions were checked against the shipped UI labels and handlers. Writing this guide did not execute a new app workflow, model call, or browser test.
 
-The [109.8-second narrated submission video](https://github.com/thinker0v0/folderundo-nebius-nvidia-2026/releases/download/submission-20261030/folderundo-submission-draft.mp4) includes the historical clip and separately labeled reference evidence and limitations. This is recorded footage, not a current running app.
+The [109.8-second narrated submission video](https://github.com/thinker0v0/folderundo-nebius-nvidia-2026/releases/download/submission-20261030/folderundo-submission-ready.mp4) includes the historical clip and separately labeled reference evidence and limitations. This is recorded footage, not a current running app.

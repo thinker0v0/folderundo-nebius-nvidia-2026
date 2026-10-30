@@ -4,7 +4,7 @@ FolderUndo is a Linux prototype for reviewing AI filing suggestions, approving e
 
 ## Source and video versions
 
-This repository preserves the public runtime source package `folderundo-source-current-20261030.zip`, SHA-256 `0920314559e590ceb1ab47f885ff7935690609314b86ee7a95f19b453e1d03f7`. Its 71 payload files and package manifest are unchanged. Submission-only additions are this note, `.gitignore`, and `JUDGE_GUIDE.md`. `PACKAGE_MANIFEST.json` describes the original archive payload, not these additions. Git does not retain the archive's empty `artifacts/` directory; create it using the README command before fixture verification.
+This repository preserves the public runtime source package `folderundo-source-current-20261030.zip`, SHA-256 `0920314559e590ceb1ab47f885ff7935690609314b86ee7a95f19b453e1d03f7`. Its 71 payload files and package manifest are unchanged. Submission-only additions are this note, `.gitignore`, `JUDGE_GUIDE.md`, and `VERIFICATION.json`. `PACKAGE_MANIFEST.json` describes the original archive payload, not these additions. Git does not retain the archive's empty `artifacts/` directory; create it using the README command before fixture verification.
 
 The latest preserved continuous successful video is a historical 26.8-second synthetic workflow using the 6,000-token request configuration (1,647 input / 729 output tokens). It does not show the current source repairs. No new recording or fresh inference is implied by this source publication.
 
@@ -31,3 +31,9 @@ Publication alone does not verify final competition eligibility or submission ac
 - Judge walkthrough: [JUDGE_GUIDE.md](JUDGE_GUIDE.md)
 
 Individual entry. The owner reports a project start date of October 23, 2026. Public video availability on GitHub does not satisfy the separate public YouTube requirement. Free live AI access during judging remains unestablished.
+
+## Fresh extraction and browser verification
+
+On October 30, the published ZIP was extracted into a clean directory and used with a Python 3.12 no-pip virtual environment. All 40 public fixture files verified. A first actual-worker reference validation completed 13 jobs; the separate supported-browser journey completed 15 jobs. Normal Undo restored four original paths, bytes and file identities. The conflict journey preserved all four original identities across five retained files, with three original paths restored. Both browser-downloaded evidence bundles verified. No provider calls were made; this does not establish the full current NVIDIA journey.
+
+The first validation's disk-monitor controller failed when a transient SQLite WAL disappeared during enumeration. The already-launched validation completed independently in 2.61 seconds; that controller failure remains retained. The browser runtime later closed normally after inspection. Its only recorded browser console error was a missing favicon. See [VERIFICATION.json](VERIFICATION.json) for the bounded results.
