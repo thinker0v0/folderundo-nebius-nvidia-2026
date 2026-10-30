@@ -62,3 +62,7 @@ The preserved successful NVIDIA video is a **historical 26.8-second workflow**, 
 These instructions were checked against the shipped UI labels and handlers. Writing this guide did not execute a new app workflow, model call, or browser test.
 
 The [111.64-second narrated submission video](https://github.com/thinker0v0/folderundo-nebius-nvidia-2026/releases/download/submission-20261030/folderundo-submission-neural.mp4) includes the historical clip and separately labeled reference evidence and limitations. This is recorded footage, not a current running app.
+
+Owner-provided YouTube upload: [https://www.youtube.com/watch?v=Fw_9Cx4yqnw](https://www.youtube.com/watch?v=Fw_9Cx4yqnw). This link is supplied for the current 111.64-second neural-narrated submission video; public availability and uploaded content have not yet been independently verified. The historical NVIDIA clip and current-source limitations above still apply. Free live AI access for judges remains unestablished.
+
+YouTube metadata check: the anonymous oEmbed endpoint returned the expected FolderUndo title and Bayesian Lee channel. Playback in the connected browser stopped at YouTube’s bot-verification sign-in screen, so this check does not independently establish Public visibility or the uploaded video’s contents.

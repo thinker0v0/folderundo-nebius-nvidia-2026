@@ -28,9 +28,10 @@ Publication alone does not verify final competition eligibility or submission ac
 
 - Source: https://github.com/thinker0v0/folderundo-nebius-nvidia-2026
 - Downloadable test build and 111.64-second narrated video: https://github.com/thinker0v0/folderundo-nebius-nvidia-2026/releases/tag/submission-20261030
+- YouTube upload (owner-provided; public availability not yet independently verified): https://www.youtube.com/watch?v=Fw_9Cx4yqnw
 - Judge walkthrough: [JUDGE_GUIDE.md](JUDGE_GUIDE.md)
 
-Individual entry. The owner reports a project start date of October 23, 2026. Public video availability on GitHub does not satisfy the separate public YouTube requirement. Free live AI access during judging remains unestablished.
+Individual entry. The owner reports a project start date of October 23, 2026. The owner supplied the YouTube upload URL above; public availability and satisfaction of the separate YouTube requirement remain pending independent verification. Free live AI access during judging remains unestablished.
 
 ## Fresh extraction and browser verification
 
@@ -41,3 +42,5 @@ The first validation's disk-monitor controller failed when a transient SQLite WA
 ## Narration upgrade
 
 The current 111.64-second video uses Microsoft Ava neural English narration. The canonical Opus 5.5 script, actual 26.8-second footage at 1×, and product limitations are unchanged. Captions follow speech-provider sentence timing. Encoded audio measured -16.19 LUFS and -1.73 dBTP; decoding passed. These are technical checks, not a subjective listening evaluation. Earlier video versions are retained in the release.
+
+YouTube metadata check: the anonymous oEmbed endpoint returned the expected FolderUndo title and Bayesian Lee channel. Playback in the connected browser stopped at YouTube’s bot-verification sign-in screen, so this check does not independently establish Public visibility or the uploaded video’s contents.
