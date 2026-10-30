@@ -4,7 +4,7 @@ FolderUndo is a Linux prototype for reviewing AI filing suggestions, approving e
 
 ## Source and video versions
 
-This repository preserves the public runtime source package `folderundo-source-current-20261030.zip`, SHA-256 `0920314559e590ceb1ab47f885ff7935690609314b86ee7a95f19b453e1d03f7`. Its 71 payload files and package manifest are unchanged. Only this submission note and `.gitignore` are added. `PACKAGE_MANIFEST.json` describes the original archive payload, not these two additions. Git does not retain the archive's empty `artifacts/` directory; create it using the README command before fixture verification.
+This repository preserves the public runtime source package `folderundo-source-current-20261030.zip`, SHA-256 `0920314559e590ceb1ab47f885ff7935690609314b86ee7a95f19b453e1d03f7`. Its 71 payload files and package manifest are unchanged. Submission-only additions are this note, `.gitignore`, and `JUDGE_GUIDE.md`. `PACKAGE_MANIFEST.json` describes the original archive payload, not these additions. Git does not retain the archive's empty `artifacts/` directory; create it using the README command before fixture verification.
 
 The latest preserved continuous successful video is a historical 26.8-second synthetic workflow using the 6,000-token request configuration (1,647 input / 729 output tokens). It does not show the current source repairs. No new recording or fresh inference is implied by this source publication.
 
@@ -23,3 +23,11 @@ This is not the full benchmark, test, or evaluation collection. Private holdout 
 Follow `README.md` for the no-key four-document reference walkthrough and the separately configured NVIDIA path. The server binds to localhost; public reverse proxying is unsupported. This repository is a source release, not a hosted live application. Keep existing stores and ledgers intact and keep private bootstrap URLs and keys outside public materials.
 
 Publication alone does not verify final competition eligibility or submission acceptance. The README's publication-pending statements describe the source-package preparation snapshot; the repository's actual public availability and any separately supplied video URL must be checked at submission time.
+
+## Public materials
+
+- Source: https://github.com/thinker0v0/folderundo-nebius-nvidia-2026
+- Downloadable test build and 109.8-second narrated video: https://github.com/thinker0v0/folderundo-nebius-nvidia-2026/releases/tag/submission-20261030
+- Judge walkthrough: [JUDGE_GUIDE.md](JUDGE_GUIDE.md)
+
+Individual entry. The owner reports a project start date of October 23, 2026. Public video availability on GitHub does not satisfy the separate public YouTube requirement. Free live AI access during judging remains unestablished.
