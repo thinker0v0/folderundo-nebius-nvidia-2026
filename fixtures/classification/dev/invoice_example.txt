@@ -1,0 +1,2 @@
+Teaching example: invoice anatomy
+A sample supplier lists a date, an item description, a total, and payment terms. Example total: 30 credits. No goods were ordered and no balance is owed. This note explains the fields so I can recognize them later.

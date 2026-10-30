@@ -1,0 +1,122 @@
+{
+  "schema": "folder-dependency-licenses/v1",
+  "status": "LOCAL_METADATA_BOUND",
+  "metadata_base": "fourth/.venv/lib/python3.12/site-packages/{name}-{version}.dist-info/",
+  "text_columns": [
+    "relative_file",
+    "bytes",
+    "sha256",
+    "notice_byte_offset"
+  ],
+  "notices": [
+    "THIRD_PARTY_NOTICES.md",
+    "f24ab2ee9302535d7cb6e8c7e019f1659c2430361e6723a5e69b58beb8153b26"
+  ],
+  "packages": [
+    {
+      "name": "iniconfig",
+      "version": "2.3.1",
+      "license": "MIT",
+      "wheel_sha256": "9121e2c1fdb355232495be3194c8dfe87ccc2d5dee45947b78e68f499790d7a7",
+      "metadata_sha256": "47c2c35d936f5c649d8074c6464719a42966a67b5cebad01e3e5784cf090cfb6",
+      "texts": [
+        [
+          "licenses/LICENSE",
+          1098,
+          "3409fa91f7ace557894632676656e32264fe5ef7581535725dc9a23774551bd4",
+          1602
+        ]
+      ]
+    },
+    {
+      "name": "packaging",
+      "version": "26.3",
+      "license": "Apache-2.0 OR BSD-2-Clause",
+      "wheel_sha256": "d7193f7c8e4e93f444fde0262bf90af30e16fa0ad0ad44cb553c87339b23cd1c",
+      "metadata_sha256": "70fdb89fc4d4a9a043bf7372b8972bcc883fddff34ab55e9cf80d73875384763",
+      "texts": [
+        [
+          "licenses/LICENSE",
+          197,
+          "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48",
+          2732
+        ],
+        [
+          "licenses/LICENSE.APACHE",
+          10174,
+          "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+          2968
+        ],
+        [
+          "licenses/LICENSE.BSD",
+          1344,
+          "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5",
+          13178
+        ]
+      ]
+    },
+    {
+      "name": "pluggy",
+      "version": "1.7.0",
+      "license": "MIT",
+      "wheel_sha256": "7dd7b0d8832ba3cb632c306926ded123429211b83641b35dc5c41ad2d34f9bec",
+      "metadata_sha256": "20ac8237e37f1d6e7e75500cd663015177ba80c1a1a595ff6bae18a539ff8a2c",
+      "texts": [
+        [
+          "licenses/LICENSE",
+          1110,
+          "d6b65e6c213a5d0b577911d34d6e5949b9f59d76c238c5071a2f3fc16cfb2606",
+          14552
+        ]
+      ]
+    },
+    {
+      "name": "pytest",
+      "version": "8.3.5",
+      "license": "MIT",
+      "wheel_sha256": "c69214aa47deac29fad6c2a4f590b9c4a9fdb16a403176fe154b79c0b4d4d820",
+      "metadata_sha256": "a54cbabd23e0bd941349ffb37b851a7e07b8bfe76a3b1588fc47c012c57a8688",
+      "texts": [
+        [
+          "LICENSE",
+          1091,
+          "ca836a5f9ecca3b2f350230faa20a48fb8b145653b5568d784862df864706b9b",
+          15692
+        ],
+        [
+          "AUTHORS",
+          7052,
+          "65c588442c153fccda70a58d738325006f84cc32ba156da036c3e3884bf1e503",
+          16813
+        ]
+      ]
+    }
+  ],
+  "checks": {
+    "lock_report_wheel_hashes_match": 4,
+    "installed_RECORD_entries_match": 11,
+    "full_license_files": 7,
+    "payload_bytes": 22066
+  },
+  "runtime": [
+    "Unbundled CPython3.12.3/Linux x86-64",
+    "/usr/lib/python3.12/LICENSE.txt",
+    13936,
+    "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf"
+  ],
+  "sources_sha256": {
+    "fourth/LICENSE": "f5eee63fb76b6585d82d7c3e7e7c5136331316c3256e72cb6bdf587f234d20de",
+    "fourth/requirements.lock": "c2aa43957273d13bf8bbf5873b344fe6d5e54485680ed8c0cd0fe06fbb6460db",
+    "fourth/artifacts/fresh-install-v1.json": "c2be9ccc679f56d40ac580df3b0bb868b3813ed01c0dd82f0757a5768915f12a",
+    "judging-20261028/evidence/local-delivery-01/receipt.json": "f09ec2540cada9bb179d154fdaba36fd4f7664876482aaa1733e5f83da421bf2",
+    "fourth/governance/RUBRIC.json": "6373912d8ff60233751610309c0c4f576041efe865238de8e50c587a697976a6",
+    "fourth/.venv/lib/python3.12/site-packages/pip-24.0.dist-info/METADATA": "90d11f277fd5868da679ee257c97656dde511c8aac7d025231407e6ce90839e2",
+    "accessreplay/node_modules/playwright/package.json": "718c91812946dcfbb4b724cfa0084ee3be205c571df09094f218bc4571f43c2b",
+    "accessreplay/node_modules/playwright/node_modules/playwright-core/package.json": "16a25dbd7368a87af8b58a45c6216b9cec5a91a72cf704533344701997ebde22",
+    "judging-20261028/operations/folder-conflict-copy-result.json": "25c6498b35f15cc864857e11ac899b3c3d2f235933f5d7849a0d55c2ccd3e5b0",
+    "fourth/tools/browser_journey.py": "21e5d135f749949cbc110a365474f5382eb3253fa4e615624bb9ee0e113319a4"
+  },
+  "build_note": "Seven complete local declared license payloads copied without alteration. Inventory base revision identifies source inspection, not a clean-install result or final release identity.",
+  "inventory_base_revision": "90b14b5415cc2419c702fb7313be7e24040dcc11",
+  "inventory_date_utc": "2026-10-29"
+}

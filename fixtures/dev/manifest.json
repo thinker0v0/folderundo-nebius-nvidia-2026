@@ -1,0 +1,107 @@
+{
+  "files": [
+    {
+      "path": "development-00.txt",
+      "sha256": "c72b58d8b2b07a3304c73f74c3c26658a4e159aac50136a3ef2e0f217e9af18d",
+      "size_bytes": 108
+    },
+    {
+      "path": "development-01.txt",
+      "sha256": "deaf771a4e57c50557f07d67eb534a416ad4bc37d83a63f5ab16112caf62a624",
+      "size_bytes": 108
+    },
+    {
+      "path": "development-02.txt",
+      "sha256": "8fe07225e88d27bb20bfbb275d5a9664071d7542f7b8fc0343b55324a08b27e8",
+      "size_bytes": 108
+    },
+    {
+      "path": "development-03.txt",
+      "sha256": "c57e61e6a70c7eca05fde418497f7e7cce33a95f0effbc73e4af05e7101d6c6e",
+      "size_bytes": 108
+    },
+    {
+      "path": "development-04.txt",
+      "sha256": "35f39f5222158614d02f84fb3199b403456bc9c03f6c67b48ac7b57615fcab11",
+      "size_bytes": 108
+    },
+    {
+      "path": "development-05.txt",
+      "sha256": "44b7040979cfd286310d30a2d1b703765ea826c1e6ec62d527ea3d234789d6ab",
+      "size_bytes": 108
+    },
+    {
+      "path": "development-06.txt",
+      "sha256": "4f2c4e5ce113af4ff9f8a89f91c037c7f00e52896430ffec9ff04bc917244fc3",
+      "size_bytes": 108
+    },
+    {
+      "path": "development-07.txt",
+      "sha256": "dcaa963ee5ba67248288ced9d63bba407ff0db97b3b8faee443a92fe3d013236",
+      "size_bytes": 108
+    },
+    {
+      "path": "development-08.txt",
+      "sha256": "701093dfd9e3c02d65c75ad58581160db19643f0d7511d0e07516d706e35cf4e",
+      "size_bytes": 108
+    },
+    {
+      "path": "development-09.txt",
+      "sha256": "3a4f64cf4a57bf6a3da5a3317faaf4b938e913fe554459212fd1f0a4e5025ff2",
+      "size_bytes": 108
+    },
+    {
+      "path": "development-10.txt",
+      "sha256": "1b5cf08acf4eb09284dcff48ecd6f1438f01c4820302be2dd116364053d46ac0",
+      "size_bytes": 109
+    },
+    {
+      "path": "development-11.txt",
+      "sha256": "bca1e2f7ecc3060e17fe415fc38811aa963ac9fda23d62fe97460e04e2a370dc",
+      "size_bytes": 109
+    },
+    {
+      "path": "development-12.txt",
+      "sha256": "eb102a23167a5c5c77fb947640e3c0f84c39c0496b3aa9934aa9d5637478aa95",
+      "size_bytes": 109
+    },
+    {
+      "path": "development-13.txt",
+      "sha256": "8343efaf148883a75aa595488545e7b7a4e3193b6802ba9c1e2db90b5b7affa1",
+      "size_bytes": 109
+    },
+    {
+      "path": "development-14.txt",
+      "sha256": "9459c1d65944d3636da9cb9583451f0cce2b33bd581800845d5ae5803bfd7a9d",
+      "size_bytes": 109
+    },
+    {
+      "path": "development-15.txt",
+      "sha256": "ac79b565058cf2f469d2ff7cbd831bfe29d12d69f403dcd841a2708a49779515",
+      "size_bytes": 109
+    },
+    {
+      "path": "development-16.txt",
+      "sha256": "e63f13d6db843b467ab375ddcdce61cc1967c2b342c8eeda165d095c2cc21e35",
+      "size_bytes": 109
+    },
+    {
+      "path": "development-17.txt",
+      "sha256": "73c6b5e4694abc36c3f652f18a0bab01608da476023885ffbd9229a2599e55df",
+      "size_bytes": 109
+    },
+    {
+      "path": "development-18.txt",
+      "sha256": "5f045d0554de7f6f44abeb9bf1fb981f1dd2ce1842f24fac8c8d5db0c03f11b4",
+      "size_bytes": 109
+    },
+    {
+      "path": "development-19.txt",
+      "sha256": "e451e623dd3a3baf6452bba0789031383e97614ca0801fd45c81541759dcfc37",
+      "size_bytes": 109
+    }
+  ],
+  "generated_by": "tools.generate deterministic handwritten synthetic templates",
+  "license": "MIT",
+  "split": "dev"
+}

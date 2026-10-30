@@ -1,0 +1,376 @@
+{
+  "added_license_documents": [
+    "LICENSE_MANIFEST.json",
+    "THIRD_PARTY_NOTICES.md"
+  ],
+  "base_allowlist_archive_sha256": "61ae05eb5f1c7f2ce727928f1d5f873c256a89a617d710099db3b9b679b15776",
+  "base_allowlist_source_count": 69,
+  "created_utc": "2026-10-30T13:56:08.213368+00:00",
+  "directories": [
+    {
+      "mode": "0700",
+      "path": "artifacts/",
+      "purpose": "Empty initial output directory"
+    }
+  ],
+  "files": [
+    {
+      "bytes": 1077,
+      "path": "LICENSE",
+      "sha256": "f5eee63fb76b6585d82d7c3e7e7c5136331316c3256e72cb6bdf587f234d20de"
+    },
+    {
+      "bytes": 4625,
+      "path": "LICENSE_MANIFEST.json",
+      "sha256": "3cdc0b79a6f5862c75268f1f151b0d9cf66b1e156c0bd5c79952f2a2beea2ad1"
+    },
+    {
+      "bytes": 11367,
+      "path": "README.md",
+      "sha256": "1038f6976964302ceeb97e9810784f0b3ebce4847427e1d8d072f03b43e5a456"
+    },
+    {
+      "bytes": 23865,
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "f24ab2ee9302535d7cb6e8c7e019f1659c2430361e6723a5e69b58beb8153b26"
+    },
+    {
+      "bytes": 52,
+      "path": "app/__init__.py",
+      "sha256": "f9517344ed449b1d7a4682ccbbf6311617129a9a688ab3ae34b6731395b38a6b"
+    },
+    {
+      "bytes": 6089,
+      "path": "app/classifier.py",
+      "sha256": "2ca3fa08bf678d5976dd386e37a68c35d7fed9e07985efbbaa0e8801ad15d7a1"
+    },
+    {
+      "bytes": 9866,
+      "path": "app/cli.py",
+      "sha256": "b9e979938a63c463ecb99baea4d084fe7dc6f5cffde880680941da545f1e7fa1"
+    },
+    {
+      "bytes": 52702,
+      "path": "app/coordinator.py",
+      "sha256": "e3306bc12d54ba032bacd6ca5b93d1bb4b7f1191e99ef5fb6262770478b8f157"
+    },
+    {
+      "bytes": 24850,
+      "path": "app/coordinator_evidence.py",
+      "sha256": "986e223c33770944b66d5bb8096fba638977d75857a57fdd5abffb44e4b721d5"
+    },
+    {
+      "bytes": 7771,
+      "path": "app/coordinator_worker.py",
+      "sha256": "747ab64ceda49f345b17838cfc1549590580a719fae4ee981be824c59c3731a8"
+    },
+    {
+      "bytes": 30058,
+      "path": "app/core.py",
+      "sha256": "de164f81af27f7ea3f2318d031a5bd936590e7847d19485deee79a8e32683d6d"
+    },
+    {
+      "bytes": 33193,
+      "path": "app/execution.py",
+      "sha256": "813b788676813ff2b2dcc8eddc09f1e22eedce5c2d65c361f95f4cb53189d836"
+    },
+    {
+      "bytes": 15449,
+      "path": "app/export.py",
+      "sha256": "a2ca7ad9426ef7e1557d7e96202291af3e2d4f14e4439de1356d0dfe5122a4ee"
+    },
+    {
+      "bytes": 8358,
+      "path": "app/live_provider.py",
+      "sha256": "a12d08ac4a36afdcbb8028830a701b8379ac5b7fdce2153634e1d4ce8beb55bb"
+    },
+    {
+      "bytes": 4023,
+      "path": "app/policy.py",
+      "sha256": "fc6f1a722b8a8ade87446c2c553c89b5b10f55bcadd684ca5d5f701754e96673"
+    },
+    {
+      "bytes": 31767,
+      "path": "app/provider_runtime.py",
+      "sha256": "c6acf23a7969a0d54ca165ae5b3d5447530c8ed38746e4219029eb4ad31296f8"
+    },
+    {
+      "bytes": 12741,
+      "path": "app/server.py",
+      "sha256": "d55ec1a591a9a8700e69a39c701d0a7b8105b24d63ff1275eebf6304af7b2910"
+    },
+    {
+      "bytes": 3237,
+      "path": "app/service.py",
+      "sha256": "1cc0096ec594d59187a4674b03e9ab388c39073dd02cd50a93b821b693b3390d"
+    },
+    {
+      "bytes": 29909,
+      "path": "app/worker_runtime.py",
+      "sha256": "46625922eee1b209eefdb4a067b2cc57184a8dc9190bbb9d9a369f6c57952fdb"
+    },
+    {
+      "bytes": 224,
+      "path": "fixtures/classification/dev/adjustment_06.txt",
+      "sha256": "1e0824677550751a84724843da286f826e352e5afd8007e04a8008791846a602"
+    },
+    {
+      "bytes": 274,
+      "path": "fixtures/classification/dev/atlas_checkout_draft.txt",
+      "sha256": "4d48487cba3938f5e60204aad96155796d44cda56edab01dd505b0d382d8e7c2"
+    },
+    {
+      "bytes": 256,
+      "path": "fixtures/classification/dev/atlas_schedule.txt",
+      "sha256": "ba9d35eba2eb38585eefe255b0db96adf081702f139ba8ce8f9a615594d6d374"
+    },
+    {
+      "bytes": 295,
+      "path": "fixtures/classification/dev/cedar_accessibility_manual.md",
+      "sha256": "e693f8ba3f34c806490c3eb70551bda95a1390ffde739675eec440d062d8104f"
+    },
+    {
+      "bytes": 247,
+      "path": "fixtures/classification/dev/cedar_meeting.md",
+      "sha256": "8394e43e0db3f9358cffabf5c59070778233f4d39f22e0599701e09c4d03f664"
+    },
+    {
+      "bytes": 205,
+      "path": "fixtures/classification/dev/cedar_seedlings.txt",
+      "sha256": "3746686eb487cae9dccaae6873a39cde8100c9c6cd3d8931ae4c196feb1cb2dc"
+    },
+    {
+      "bytes": 221,
+      "path": "fixtures/classification/dev/counter_copy.txt",
+      "sha256": "b5aa01718d1d28003ecbc2bbf4b1c22a6165a911a6522ce90e8ded8ff1116d26"
+    },
+    {
+      "bytes": 252,
+      "path": "fixtures/classification/dev/counter_example.txt",
+      "sha256": "6ba88c8132fd4a008e02989528e55cc36fdb9a0a98e048d21527943a69099d7d"
+    },
+    {
+      "bytes": 139,
+      "path": "fixtures/classification/dev/download_7.txt",
+      "sha256": "5308acc3716c28866a28950c9b5185deef08b670fa9fc314ef0d7bf9d8cd56a5"
+    },
+    {
+      "bytes": 263,
+      "path": "fixtures/classification/dev/image_sizes.txt",
+      "sha256": "3d71ff9272733fd44508192cef5d3e4b4bb76c8cb9a04bc37a1fe8479e0f7281"
+    },
+    {
+      "bytes": 227,
+      "path": "fixtures/classification/dev/invoice_18.md",
+      "sha256": "5d757ddb0a8f05c28e62466516fa2ba8d210d4be98f1b8a69f2f59b8e4da0229"
+    },
+    {
+      "bytes": 249,
+      "path": "fixtures/classification/dev/invoice_example.txt",
+      "sha256": "d7c721ad53db1965d872d59d9b789ff1e30205a77c15e3aa44e185955e7ba233"
+    },
+    {
+      "bytes": 213,
+      "path": "fixtures/classification/dev/notes_17.md",
+      "sha256": "f6c8414c7c60affb6e446e2257773bc118392c3722ef3b1b2a7704ee7724f072"
+    },
+    {
+      "bytes": 275,
+      "path": "fixtures/classification/dev/receipt_204.txt",
+      "sha256": "293bace41f74c1af7753039f3dfb2f4aad9b29674d536f059a60b95387912ddd"
+    },
+    {
+      "bytes": 232,
+      "path": "fixtures/classification/dev/revision_b.md",
+      "sha256": "e5b3980579905e1c2af02bcfdb05cd5dce6031817bd3f6c2d077cbcc1feed803"
+    },
+    {
+      "bytes": 177,
+      "path": "fixtures/classification/dev/shopping_saturday.txt",
+      "sha256": "06bdad5366ee1a2bc3631c62587c7da721d938efe2fe9fa7be8a5015b3193b95"
+    },
+    {
+      "bytes": 230,
+      "path": "fixtures/classification/dev/travel_paid.md",
+      "sha256": "ad48a3805b2341deb907d3fa7f7ab56e9a7aa94811f8a06bb719d51079649e62"
+    },
+    {
+      "bytes": 244,
+      "path": "fixtures/classification/dev/typography_guide.md",
+      "sha256": "acda25ba2b748bd55d91d7f57bfbe7a6860cf3a216119b14ff6daeb30eb03292"
+    },
+    {
+      "bytes": 153,
+      "path": "fixtures/classification/dev/voice_03.md",
+      "sha256": "8f82b64c534fc9cf58f4b350776556495842191bc944e52be3b104d0860c5388"
+    },
+    {
+      "bytes": 144,
+      "path": "fixtures/classification/dev/weekend_plan.md",
+      "sha256": "e41239935d6a7dc45557c011306a2b2c4004396b478eeb6fbfb34d198168bc7b"
+    },
+    {
+      "bytes": 22629,
+      "path": "fixtures/classification/spec.json",
+      "sha256": "99a53393376a72b9f1628df7d29e4e8384ea8e5bf80de51871b9467bf622d9d7"
+    },
+    {
+      "bytes": 108,
+      "path": "fixtures/dev/development-00.txt",
+      "sha256": "c72b58d8b2b07a3304c73f74c3c26658a4e159aac50136a3ef2e0f217e9af18d"
+    },
+    {
+      "bytes": 108,
+      "path": "fixtures/dev/development-01.txt",
+      "sha256": "deaf771a4e57c50557f07d67eb534a416ad4bc37d83a63f5ab16112caf62a624"
+    },
+    {
+      "bytes": 108,
+      "path": "fixtures/dev/development-02.txt",
+      "sha256": "8fe07225e88d27bb20bfbb275d5a9664071d7542f7b8fc0343b55324a08b27e8"
+    },
+    {
+      "bytes": 108,
+      "path": "fixtures/dev/development-03.txt",
+      "sha256": "c57e61e6a70c7eca05fde418497f7e7cce33a95f0effbc73e4af05e7101d6c6e"
+    },
+    {
+      "bytes": 108,
+      "path": "fixtures/dev/development-04.txt",
+      "sha256": "35f39f5222158614d02f84fb3199b403456bc9c03f6c67b48ac7b57615fcab11"
+    },
+    {
+      "bytes": 108,
+      "path": "fixtures/dev/development-05.txt",
+      "sha256": "44b7040979cfd286310d30a2d1b703765ea826c1e6ec62d527ea3d234789d6ab"
+    },
+    {
+      "bytes": 108,
+      "path": "fixtures/dev/development-06.txt",
+      "sha256": "4f2c4e5ce113af4ff9f8a89f91c037c7f00e52896430ffec9ff04bc917244fc3"
+    },
+    {
+      "bytes": 108,
+      "path": "fixtures/dev/development-07.txt",
+      "sha256": "dcaa963ee5ba67248288ced9d63bba407ff0db97b3b8faee443a92fe3d013236"
+    },
+    {
+      "bytes": 108,
+      "path": "fixtures/dev/development-08.txt",
+      "sha256": "701093dfd9e3c02d65c75ad58581160db19643f0d7511d0e07516d706e35cf4e"
+    },
+    {
+      "bytes": 108,
+      "path": "fixtures/dev/development-09.txt",
+      "sha256": "3a4f64cf4a57bf6a3da5a3317faaf4b938e913fe554459212fd1f0a4e5025ff2"
+    },
+    {
+      "bytes": 109,
+      "path": "fixtures/dev/development-10.txt",
+      "sha256": "1b5cf08acf4eb09284dcff48ecd6f1438f01c4820302be2dd116364053d46ac0"
+    },
+    {
+      "bytes": 109,
+      "path": "fixtures/dev/development-11.txt",
+      "sha256": "bca1e2f7ecc3060e17fe415fc38811aa963ac9fda23d62fe97460e04e2a370dc"
+    },
+    {
+      "bytes": 109,
+      "path": "fixtures/dev/development-12.txt",
+      "sha256": "eb102a23167a5c5c77fb947640e3c0f84c39c0496b3aa9934aa9d5637478aa95"
+    },
+    {
+      "bytes": 109,
+      "path": "fixtures/dev/development-13.txt",
+      "sha256": "8343efaf148883a75aa595488545e7b7a4e3193b6802ba9c1e2db90b5b7affa1"
+    },
+    {
+      "bytes": 109,
+      "path": "fixtures/dev/development-14.txt",
+      "sha256": "9459c1d65944d3636da9cb9583451f0cce2b33bd581800845d5ae5803bfd7a9d"
+    },
+    {
+      "bytes": 109,
+      "path": "fixtures/dev/development-15.txt",
+      "sha256": "ac79b565058cf2f469d2ff7cbd831bfe29d12d69f403dcd841a2708a49779515"
+    },
+    {
+      "bytes": 109,
+      "path": "fixtures/dev/development-16.txt",
+      "sha256": "e63f13d6db843b467ab375ddcdce61cc1967c2b342c8eeda165d095c2cc21e35"
+    },
+    {
+      "bytes": 109,
+      "path": "fixtures/dev/development-17.txt",
+      "sha256": "73c6b5e4694abc36c3f652f18a0bab01608da476023885ffbd9229a2599e55df"
+    },
+    {
+      "bytes": 109,
+      "path": "fixtures/dev/development-18.txt",
+      "sha256": "5f045d0554de7f6f44abeb9bf1fb981f1dd2ce1842f24fac8c8d5db0c03f11b4"
+    },
+    {
+      "bytes": 109,
+      "path": "fixtures/dev/development-19.txt",
+      "sha256": "e451e623dd3a3baf6452bba0789031383e97614ca0801fd45c81541759dcfc37"
+    },
+    {
+      "bytes": 3280,
+      "path": "fixtures/dev/manifest.json",
+      "sha256": "7ec7768b5f2ca85c4c4f3bed99519e1df693ce2c8759366a1384e04ca087cdf6"
+    },
+    {
+      "bytes": 10412,
+      "path": "fixtures/manifest.json",
+      "sha256": "9dae618d1fda6c125f595feb660b49b9ea905170309ae8fc50d017c09a57322f"
+    },
+    {
+      "bytes": 450,
+      "path": "requirements.lock",
+      "sha256": "c2aa43957273d13bf8bbf5873b344fe6d5e54485680ed8c0cd0fe06fbb6460db"
+    },
+    {
+      "bytes": 30532,
+      "path": "static/app.js",
+      "sha256": "101c1f21550206a0d0c24ba0b4fd33cda8a90551f5c635192d3692d3c4f4f83c"
+    },
+    {
+      "bytes": 6207,
+      "path": "static/index.html",
+      "sha256": "395498f82fb0745b089f40a2fc8db9f73de5aee1b3636d72de9decdbdc19fce3"
+    },
+    {
+      "bytes": 2166,
+      "path": "static/style.css",
+      "sha256": "a4c913eb4b289092ee2068d70cdd058f517e36596621fbd3482861d57cda4152"
+    },
+    {
+      "bytes": 0,
+      "path": "tools/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 16909,
+      "path": "tools/live/broker.py",
+      "sha256": "61b1144fbb962cdcf67a74c20ed077db2e3613aea0b05dd3ee89db072a3d5e50"
+    },
+    {
+      "bytes": 1217,
+      "path": "tools/live/init_ledger.py",
+      "sha256": "97bebaf2eb1341614930e6b9a3a70b63a9e20d2b842aac0685e41df15918f312"
+    },
+    {
+      "bytes": 3007,
+      "path": "tools/live/live_server.py",
+      "sha256": "e78de41cf2f77e16bda7c43ee0008ade1507934c82ea54c51d354c67501a5ae9"
+    },
+    {
+      "bytes": 31348,
+      "path": "tools/probes.py",
+      "sha256": "0d42d3e822ccbbae1b13be009836589c6190603016e12c9fea6866297f5e1521"
+    }
+  ],
+  "schema": "folderundo-public-runtime-source/20261030",
+  "scope": "Current public runtime source and 40 public development fixtures; not complete benchmark/test/evaluation package or release acceptance. No runtime stores, private bodies, oracle values, generators, credentials or prior evidence included.",
+  "source_files": 71
+}

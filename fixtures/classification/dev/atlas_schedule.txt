@@ -1,0 +1,2 @@
+Atlas release schedule
+Monday: finish booking confirmation screen. Tuesday: shop owner checks available appointment lengths. Wednesday: publish the agreed copy after approval. The old appointment spreadsheet remains the fallback until the owner signs off.

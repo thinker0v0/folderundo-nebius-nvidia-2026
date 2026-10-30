@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>FolderUndo · Synthetic copy lab</title>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+<main id="workflow" aria-busy="false">
+  <header>
+    <span class="badge" id="provider-badge">LINUX · OWNER LOCAL SESSION · SYNTHETIC LAB · PROVIDER CLOSED</span>
+    <h1>Move with a record.<br>Undo with evidence.</h1>
+    <p id="intro-copy">For people reorganizing document folders who want to check every move first. Try this local lab with generated text copies: review their destinations, approve a plan, then inspect the result and Undo. No personal folder is connected; the current modes make no model calls.</p>
+    <p id="authority-copy">You approve the exact paths and hashes. The executor performs only approved moves. Future model modes remain locked and would propose destinations, never authorize movement.</p>
+  </header>
+  <section class="guidance" aria-labelledby="next-heading">
+    <h2 id="next-heading">Your next step</h2>
+    <p id="next-action" role="status" aria-live="polite" aria-atomic="true">Open the private bootstrap URL from the running server to begin.</p>
+    <a id="next-link" hidden>Go to the next step</a>
+  </section>
+  <section aria-labelledby="start">
+    <h2 id="start">1. Create a copy</h2>
+    <label for="fixture">Registered fixture</label>
+    <select id="fixture" aria-describedby="mode-note">
+      <option value="dev20">B0 · 20 synthetic development documents</option>
+      <option value="synthetic-4" selected>Quick mechanics walkthrough · 4 synthetic documents</option>
+      <option value="synthetic-12">Reference cycle · 12 synthetic documents</option>
+    </select>
+    <button id="create">Create synthetic copy</button>
+    <p>The four-document walkthrough includes separate files with identical bytes. It demonstrates movement and Undo, not classification accuracy or AI benefit.</p>
+    <button id="newcopy" disabled>Preserve existing copies and create new</button>
+    <label for="existing">Existing registered copies</label>
+    <select id="existing"><option value="">No registered copy</option></select>
+    <button id="switch" disabled>Open selected copy</button>
+    <p id="mode-note">B0 uses frozen public intent, purpose patterns, filename rules and an exact project dictionary. Review every proposed destination.</p>
+    <details><summary>Frozen public filing intent</summary><p id="intent"></p></details>
+    <p id="provider-notice">No content is sent remotely in these modes. B1/B2 model modes are locked until provider access is verified.</p>
+  </section>
+  <section aria-labelledby="review-heading">
+    <h2 id="review-heading">2. Scan and review</h2>
+    <div class="actions"><button id="scan" disabled>Scan files</button><button id="preview" disabled>Build filing preview</button></div>
+    <p id="mode-role"></p>
+    <p id="policy-context"></p>
+    <p id="provider-receipt" aria-live="polite"></p>
+    <p id="identity">No active copy.</p>
+    <div id="files" class="scroll"></div>
+    <div id="plan" tabindex="-1" aria-label="Exact filing preview"></div>
+    <label class="consent"><input id="consent" type="checkbox" disabled> I reviewed every source, destination and source hash in this exact preview.</label>
+    <button id="approve" disabled>Approve exact plan</button>
+    <button id="apply" disabled>Apply approved moves</button>
+    <p>Approval records your consent. Only the separate Apply action moves the approved copies.</p>
+  </section>
+  <section aria-labelledby="result-heading">
+    <h2 id="result-heading">3. Inspect, undo and export</h2>
+    <p id="state" role="status" aria-live="polite">Ready to create a synthetic copy.</p>
+    <div class="outcome" aria-label="Recorded outcome and current files">
+      <p id="recorded-summary"></p>
+      <p id="counts"></p>
+      <p id="current-summary"></p>
+    </div>
+    <p id="undo-limits">Undo reverses recorded file moves. It is not a content backup and cannot restore earlier contents after a file is edited or deleted. Changed or occupied paths may require conflict review; a conflict is not a completed restoration.</p>
+    <p id="recovery-limits">Recovery evidence is incomplete: the audited collection covers 1,168 of the original 1,204 cases; 36 remain NOT_RUN. The retained controller exceeded its 90-minute limit by 4.172783 seconds. This does not establish full recovery or safety for personal folders.</p>
+    <div class="actions">
+      <button id="refresh" disabled>Refresh journal</button>
+      <button id="undo" aria-describedby="undo-limits recovery-limits" disabled>Undo committed moves</button>
+      <button id="recover" disabled>Reconcile journal</button>
+      <button id="resume" aria-describedby="undo-limits recovery-limits" disabled>Resume recorded Undo</button>
+      <button id="cancel" disabled>Cancel pending / undo committed</button>
+    </div>
+    <div id="operations" class="scroll"></div>
+    <div id="conflicts" class="scroll" tabindex="-1" aria-label="Recorded conflicts"></div>
+    <p id="drift"></p>
+    <p id="message" role="alert"></p>
+    <a id="export" hidden>Download recorded evidence ZIP</a>
+    <p>Offline replay: <code>python -m app.export --bundle folderundo-evidence.zip --offline</code>. Checks archive consistency without extraction, moves or inference. It does not authenticate historical events.</p>
+    <details>
+      <summary>Optional conflict journey</summary>
+      <button id="conflict" disabled>Simulate occupied original path</button>
+      <p>After Apply, the simulation creates one fixed synthetic file at a known original path. Undo must preserve both files and report a conflict. A conflict is not a successful restoration.</p>
+    </details>
+    <details><summary>Bounded event journal</summary><pre id="events"></pre></details>
+  </section>
+  <footer>Linux synthetic copy prototype. Live B1 uses NVIDIA Nemotron on Nebius Token Factory; reference modes use no AI. Human first-use time, general classification accuracy, personal-folder safety and full product acceptance remain unproven.</footer>
+</main>
+</body>
+</html>

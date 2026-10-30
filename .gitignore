@@ -1,0 +1,33 @@
+# Local environments and generated caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+# Runtime stores, evidence, recordings, private bootstrap links
+artifacts/
+storage/
+run/
+ledger/
+*.sqlite*
+*.db
+*.db-*
+*.sock
+*.pid
+*.log
+open-url.txt
+ledger.json
+session*.json
+*.mp4
+*.webm
+*.zip
+# Credentials remain outside the repository
+.env
+.env.*
+*.pem
+*.key
+api_key
+credentials*.json
+secrets*.json
+.DS_Store

@@ -1,0 +1,3 @@
+Atlas booking service copy, revision 2
+Reserve your bicycle fitting
+Choose a time, leave a contact address, and wait for the shop to confirm. The cancellation sentence is still pending client approval. This is the text we are delivering, not a description of a tool we use.

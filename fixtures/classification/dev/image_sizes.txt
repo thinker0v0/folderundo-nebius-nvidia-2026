@@ -1,0 +1,2 @@
+Image preparation notes
+Keep an untouched master before exporting web images. Compare a small and a large export at their intended display sizes. A handbook reminder: file dimensions and visible dimensions need not match. Saved to consult across future projects.

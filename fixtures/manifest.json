@@ -1,0 +1,311 @@
+{
+  "files": [
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-00.txt",
+      "sha256": "c72b58d8b2b07a3304c73f74c3c26658a4e159aac50136a3ef2e0f217e9af18d",
+      "size_bytes": 108,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-01.txt",
+      "sha256": "deaf771a4e57c50557f07d67eb534a416ad4bc37d83a63f5ab16112caf62a624",
+      "size_bytes": 108,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-02.txt",
+      "sha256": "8fe07225e88d27bb20bfbb275d5a9664071d7542f7b8fc0343b55324a08b27e8",
+      "size_bytes": 108,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-03.txt",
+      "sha256": "c57e61e6a70c7eca05fde418497f7e7cce33a95f0effbc73e4af05e7101d6c6e",
+      "size_bytes": 108,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-04.txt",
+      "sha256": "35f39f5222158614d02f84fb3199b403456bc9c03f6c67b48ac7b57615fcab11",
+      "size_bytes": 108,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-05.txt",
+      "sha256": "44b7040979cfd286310d30a2d1b703765ea826c1e6ec62d527ea3d234789d6ab",
+      "size_bytes": 108,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-06.txt",
+      "sha256": "4f2c4e5ce113af4ff9f8a89f91c037c7f00e52896430ffec9ff04bc917244fc3",
+      "size_bytes": 108,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-07.txt",
+      "sha256": "dcaa963ee5ba67248288ced9d63bba407ff0db97b3b8faee443a92fe3d013236",
+      "size_bytes": 108,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-08.txt",
+      "sha256": "701093dfd9e3c02d65c75ad58581160db19643f0d7511d0e07516d706e35cf4e",
+      "size_bytes": 108,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-09.txt",
+      "sha256": "3a4f64cf4a57bf6a3da5a3317faaf4b938e913fe554459212fd1f0a4e5025ff2",
+      "size_bytes": 108,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-10.txt",
+      "sha256": "1b5cf08acf4eb09284dcff48ecd6f1438f01c4820302be2dd116364053d46ac0",
+      "size_bytes": 109,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-11.txt",
+      "sha256": "bca1e2f7ecc3060e17fe415fc38811aa963ac9fda23d62fe97460e04e2a370dc",
+      "size_bytes": 109,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-12.txt",
+      "sha256": "eb102a23167a5c5c77fb947640e3c0f84c39c0496b3aa9934aa9d5637478aa95",
+      "size_bytes": 109,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-13.txt",
+      "sha256": "8343efaf148883a75aa595488545e7b7a4e3193b6802ba9c1e2db90b5b7affa1",
+      "size_bytes": 109,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-14.txt",
+      "sha256": "9459c1d65944d3636da9cb9583451f0cce2b33bd581800845d5ae5803bfd7a9d",
+      "size_bytes": 109,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-15.txt",
+      "sha256": "ac79b565058cf2f469d2ff7cbd831bfe29d12d69f403dcd841a2708a49779515",
+      "size_bytes": 109,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-16.txt",
+      "sha256": "e63f13d6db843b467ab375ddcdce61cc1967c2b342c8eeda165d095c2cc21e35",
+      "size_bytes": 109,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-17.txt",
+      "sha256": "73c6b5e4694abc36c3f652f18a0bab01608da476023885ffbd9229a2599e55df",
+      "size_bytes": 109,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-18.txt",
+      "sha256": "5f045d0554de7f6f44abeb9bf1fb981f1dd2ce1842f24fac8c8d5db0c03f11b4",
+      "size_bytes": 109,
+      "split": "dev"
+    },
+    {
+      "family": "generic-development",
+      "path": "fixtures/dev/development-19.txt",
+      "sha256": "e451e623dd3a3baf6452bba0789031383e97614ca0801fd45c81541759dcfc37",
+      "size_bytes": 109,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/adjustment_06.txt",
+      "sha256": "1e0824677550751a84724843da286f826e352e5afd8007e04a8008791846a602",
+      "size_bytes": 224,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/atlas_checkout_draft.txt",
+      "sha256": "4d48487cba3938f5e60204aad96155796d44cda56edab01dd505b0d382d8e7c2",
+      "size_bytes": 274,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/atlas_schedule.txt",
+      "sha256": "ba9d35eba2eb38585eefe255b0db96adf081702f139ba8ce8f9a615594d6d374",
+      "size_bytes": 256,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/cedar_accessibility_manual.md",
+      "sha256": "e693f8ba3f34c806490c3eb70551bda95a1390ffde739675eec440d062d8104f",
+      "size_bytes": 295,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/cedar_meeting.md",
+      "sha256": "8394e43e0db3f9358cffabf5c59070778233f4d39f22e0599701e09c4d03f664",
+      "size_bytes": 247,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/cedar_seedlings.txt",
+      "sha256": "3746686eb487cae9dccaae6873a39cde8100c9c6cd3d8931ae4c196feb1cb2dc",
+      "size_bytes": 205,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/counter_copy.txt",
+      "sha256": "b5aa01718d1d28003ecbc2bbf4b1c22a6165a911a6522ce90e8ded8ff1116d26",
+      "size_bytes": 221,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/counter_example.txt",
+      "sha256": "6ba88c8132fd4a008e02989528e55cc36fdb9a0a98e048d21527943a69099d7d",
+      "size_bytes": 252,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/download_7.txt",
+      "sha256": "5308acc3716c28866a28950c9b5185deef08b670fa9fc314ef0d7bf9d8cd56a5",
+      "size_bytes": 139,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/image_sizes.txt",
+      "sha256": "3d71ff9272733fd44508192cef5d3e4b4bb76c8cb9a04bc37a1fe8479e0f7281",
+      "size_bytes": 263,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/invoice_18.md",
+      "sha256": "5d757ddb0a8f05c28e62466516fa2ba8d210d4be98f1b8a69f2f59b8e4da0229",
+      "size_bytes": 227,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/invoice_example.txt",
+      "sha256": "d7c721ad53db1965d872d59d9b789ff1e30205a77c15e3aa44e185955e7ba233",
+      "size_bytes": 249,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/notes_17.md",
+      "sha256": "f6c8414c7c60affb6e446e2257773bc118392c3722ef3b1b2a7704ee7724f072",
+      "size_bytes": 213,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/receipt_204.txt",
+      "sha256": "293bace41f74c1af7753039f3dfb2f4aad9b29674d536f059a60b95387912ddd",
+      "size_bytes": 275,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/revision_b.md",
+      "sha256": "e5b3980579905e1c2af02bcfdb05cd5dce6031817bd3f6c2d077cbcc1feed803",
+      "size_bytes": 232,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/shopping_saturday.txt",
+      "sha256": "06bdad5366ee1a2bc3631c62587c7da721d938efe2fe9fa7be8a5015b3193b95",
+      "size_bytes": 177,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/travel_paid.md",
+      "sha256": "ad48a3805b2341deb907d3fa7f7ab56e9a7aa94811f8a06bb719d51079649e62",
+      "size_bytes": 230,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/typography_guide.md",
+      "sha256": "acda25ba2b748bd55d91d7f57bfbe7a6860cf3a216119b14ff6daeb30eb03292",
+      "size_bytes": 244,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/voice_03.md",
+      "sha256": "8f82b64c534fc9cf58f4b350776556495842191bc944e52be3b104d0860c5388",
+      "size_bytes": 153,
+      "split": "dev"
+    },
+    {
+      "family": "classification-development",
+      "path": "fixtures/classification/dev/weekend_plan.md",
+      "sha256": "e41239935d6a7dc45557c011306a2b2c4004396b478eeb6fbfb34d198168bc7b",
+      "size_bytes": 144,
+      "split": "dev"
+    }
+  ],
+  "format": "folderundo-public-fixtures-v1",
+  "holdout": "NOT_CHECKED",
+  "license": "MIT",
+  "oracle": "NOT_CHECKED",
+  "recovery_fixture_aliases": {
+    "fixtures/early4": {
+      "count": 4,
+      "factory": "app.core.Store.create",
+      "scope": "early"
+    },
+    "fixtures/stress100": {
+      "count": 100,
+      "factory": "app.core.Store.create",
+      "scope": "full"
+    }
+  },
+  "scope": "public-development-only",
+  "sources": [
+    {
+      "path": "fixtures/dev/manifest.json",
+      "sha256": "7ec7768b5f2ca85c4c4f3bed99519e1df693ce2c8759366a1384e04ca087cdf6"
+    },
+    {
+      "path": "fixtures/classification/spec.json",
+      "sha256": "99a53393376a72b9f1628df7d29e4e8384ea8e5bf80de51871b9467bf622d9d7"
+    }
+  ]
+}
