@@ -27,7 +27,7 @@ Publication alone does not verify final competition eligibility or submission ac
 ## Public materials
 
 - Source: https://github.com/thinker0v0/folderundo-nebius-nvidia-2026
-- Downloadable test build and 109.8-second narrated video: https://github.com/thinker0v0/folderundo-nebius-nvidia-2026/releases/tag/submission-20261030
+- Downloadable test build and 111.64-second narrated video: https://github.com/thinker0v0/folderundo-nebius-nvidia-2026/releases/tag/submission-20261030
 - Judge walkthrough: [JUDGE_GUIDE.md](JUDGE_GUIDE.md)
 
 Individual entry. The owner reports a project start date of October 23, 2026. Public video availability on GitHub does not satisfy the separate public YouTube requirement. Free live AI access during judging remains unestablished.
@@ -37,3 +37,7 @@ Individual entry. The owner reports a project start date of October 23, 2026. Pu
 On October 30, the published ZIP was extracted into a clean directory and used with a Python 3.12 no-pip virtual environment. All 40 public fixture files verified. A first actual-worker reference validation completed 13 jobs; the separate supported-browser journey completed 15 jobs. Normal Undo restored four original paths, bytes and file identities. The conflict journey preserved all four original identities across five retained files, with three original paths restored. Both browser-downloaded evidence bundles verified. No provider calls were made; this does not establish the full current NVIDIA journey.
 
 The first validation's disk-monitor controller failed when a transient SQLite WAL disappeared during enumeration. The already-launched validation completed independently in 2.61 seconds; that controller failure remains retained. The browser runtime later closed normally after inspection. Its only recorded browser console error was a missing favicon. See [VERIFICATION.json](VERIFICATION.json) for the bounded results.
+
+## Narration upgrade
+
+The current 111.64-second video uses Microsoft Ava neural English narration. The canonical Opus 5.5 script, actual 26.8-second footage at 1×, and product limitations are unchanged. Captions follow speech-provider sentence timing. Encoded audio measured -16.19 LUFS and -1.73 dBTP; decoding passed. These are technical checks, not a subjective listening evaluation. Earlier video versions are retained in the release.
